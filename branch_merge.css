@@ -1,0 +1,16 @@
+* {
+ 	margin: 0px;
+ 	padding: 0px;
+ 	font: sans-serif;
+}
+
+#wrapper {
+/*	border: 1px solid black;*/
+	width: 700px;
+	height: auto;
+	margin: 0px auto;
+}
+
+img{
+	display: block;
+}
